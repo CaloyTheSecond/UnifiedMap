@@ -1,0 +1,1 @@
+var json_Geotag_5 = {"type":"FeatureCollection","name":"Geotag_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Geotag GIS Training","Folder":"C:\\RLGM\\DENRLogo.jpg"},"geometry":{"type":"Point","coordinates":[124.936854018565725,8.857425194828501]}}]}
